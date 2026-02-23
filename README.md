@@ -1,4 +1,4 @@
-# cyber-security
+# Cyber Security
 
 Hi! I’m Aliza Fatima, a Computer Science major and Mathematics minor passionate about problem solving and understanding how systems work behind the scenes. I enjoy learning con=mplex concepts and I strive to continuously improve my technical and interpersonal skills.
 
