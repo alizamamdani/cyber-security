@@ -6,13 +6,11 @@ I’m currently focused on strengthening my foundation in core computer science 
 
 This repository is a collection of notes from coursework and experiments and small projects. It serves as a learning journal to track my growth over time.
 
-**Technologies & Topics I’m Learning
-**
-Data Structures & Algorithms
-Python
-C++
-Linux
-Computer Networking
-Cyber Security (Basics)
-Algorithm Design & Analysis
-Advanced Mathematical Concepts
+Technologies & Topics I’m Learning:
+-Data Structures & Algorithms
+-Python/C++
+-Linux
+-Computer Networking
+-Cyber Security (Basics)
+-Algorithm Design & Analysis
+-Advanced Mathematical Concepts
